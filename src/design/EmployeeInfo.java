@@ -140,6 +140,16 @@ public class EmployeeInfo implements Employee {
 
 	}
 
+	@Override
+	public String employeeAddress() {
+		return null;
+	}
+
+	@Override
+	public String employeeAnniversary() {
+		return null;
+	}
+
 	private static class DateConversion {
 
 		public DateConversion(Months months){}
