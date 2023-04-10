@@ -23,13 +23,6 @@ public class FortuneEmployee {
 		employee1.setPhoneNumber("347-876-456");
 		employee1.setDepartment("Accounting");
 		employee1.employeeId();
-
-
-
-
-
-
-
 	}
 
 }
