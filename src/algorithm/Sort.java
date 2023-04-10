@@ -214,6 +214,8 @@ public class Sort {
                 max = i;
             }
             if (i < min) {
+
+
                 min = i;
             }
         }
