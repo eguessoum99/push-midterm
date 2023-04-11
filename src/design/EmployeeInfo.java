@@ -272,6 +272,8 @@ public class EmployeeInfo implements Employee {
 		this.salary = salary;
 	}
 
+
+
 	public void setDepartment(String department) {
 		this.department = department;
 	}
